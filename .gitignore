@@ -1,0 +1,5 @@
+# Ignore .weights files
+*.weights
+
+# Ignore the env folder
+env/
